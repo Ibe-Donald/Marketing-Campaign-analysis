@@ -1,4 +1,4 @@
-# Marketing-Campaign-analysis
+# Marketing-Campaign-analysis done using PowerBI
 ![](marketing.png)
 
 A marketing campaign is a coordinated series of marketing activities designed to achieve specific business objectives, such as promoting a product, service, or brand, increasing sales, or raising brand awareness.
